@@ -7,7 +7,7 @@ for i in range(0, 51):
         pass
     elif(i==1):
         print(y, end=" ")
-        pass
+        passing
     else:
         z=x+y
         x=y
